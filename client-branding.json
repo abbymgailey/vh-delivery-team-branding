@@ -1,0 +1,105 @@
+{
+  "clients": [
+    {
+      "client_id": 1,
+      "client_name": "acme_corp",
+      "branding": {
+        "primary_color": "Acme Corporation",
+        "secondary_color": "#0066CC",
+        "logo_url": "#FF6600",
+        "logo_alt_text": "https://yourusername.github.io/client-branding/logos/acme_logo.png",
+        "font_family": "Acme Corporation Logo"
+      },
+      "contact": {
+        "email": "Arial, sans-serif",
+        "phone": "support@acmecorp.com",
+        "website": "646-555-5555"
+      },
+      "links": {
+        "privacy_policy": "",
+        "terms_of_service": "d4h.vibrenthealth.com",
+        "unsubscribe": "https://www.acmecorp.com/privacy"
+      },
+      "legal": {
+        "disclaimer": "https://www.acmecorp.com/terms",
+        "footer_text": "https://www.acmecorp.com/unsubscribe"
+      }
+    },
+    {
+      "client_id": 60,
+      "client_name": "MDA",
+      "branding": {
+        "primary_color": "MOVR 2.0",
+        "secondary_color": "#465dc7",
+        "logo_url": "#f5b432",
+        "logo_alt_text": "",
+        "font_family": ""
+      },
+      "contact": {
+        "email": "Arial, sans-serif",
+        "phone": "support@acmecorp.com",
+        "website": "646-555-5555"
+      },
+      "links": {
+        "privacy_policy": "",
+        "terms_of_service": "d4h.vibrenthealth.com",
+        "unsubscribe": "https://www.acmecorp.com/privacy"
+      },
+      "legal": {
+        "disclaimer": "https://www.acmecorp.com/terms",
+        "footer_text": "https://www.acmecorp.com/unsubscribe"
+      }
+    },
+    {
+      "client_id": 61,
+      "client_name": "St Jude",
+      "branding": {
+        "primary_color": "LTFU",
+        "secondary_color": "#1d485a",
+        "logo_url": "#9db589",
+        "logo_alt_text": "",
+        "font_family": ""
+      },
+      "contact": {
+        "email": "Times New Roman",
+        "phone": "LTFU@stjude.org",
+        "website": "1-800-775-2167"
+      },
+      "links": {
+        "privacy_policy": "262 Danny Thomas Place, MS 735 | Memphis, TN 38105-3678",
+        "terms_of_service": "ltfu.vibrenthealth.com",
+        "unsubscribe": ""
+      },
+      "legal": {
+        "disclaimer": "",
+        "footer_text": ""
+      }
+    },
+    {
+      "client_id": 62,
+      "client_name": "Southern",
+      "branding": {
+        "primary_color": "Catalyst",
+        "secondary_color": "",
+        "logo_url": "",
+        "logo_alt_text": "",
+        "font_family": ""
+      },
+      "contact": {
+        "email": "",
+        "phone": "",
+        "website": ""
+      },
+      "links": {
+        "privacy_policy": "",
+        "terms_of_service": "",
+        "unsubscribe": ""
+      },
+      "legal": {
+        "disclaimer": "",
+        "footer_text": ""
+      }
+    }
+  ],
+  "last_updated": "2025-12-31"
+}
