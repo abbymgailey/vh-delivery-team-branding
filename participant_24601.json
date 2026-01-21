@@ -1,4 +1,5 @@
 {
+ "acuteIncentiveDelivery":{
   "participant_id": 24601,
   "completion_count": 4,
   "survey_name": "Acute Daily Survey",
@@ -7,4 +8,5 @@
   "base_payment": 8.0,
   "bonus_payment": 0.0,
   "total_payment": 8.0
+  }
 }
