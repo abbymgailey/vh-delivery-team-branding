@@ -8,5 +8,6 @@
   "base_payment": 20.0,
   "bonus_payment": 3.0,
   "totalPayment": 23
-  }
+  },
+  "totalPayment":14
 }
